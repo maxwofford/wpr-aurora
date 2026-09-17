@@ -1,0 +1,13 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+
+This shader is a derivative of "Auroras" by nimitz (@stormoid),
+https://www.shadertoy.com/view/XtGGRt, via the recolour at
+https://www.shadertoy.com/view/3XsfRr, both published under CC BY-NC-SA 3.0.
+As a derivative it carries the same license.
+
+You may share and adapt it, with attribution, for non-commercial purposes,
+under this same license. Full terms:
+https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+
+Changes here (the Metal port, seeding, parameters) copyright (c) 2026 Max Wofford,
+offered under the same license.
